@@ -15,6 +15,8 @@ class error(Exception):
 ######################################################################
 
 # This is a test line to check if it reflects after image generation
+# This is a second test line to check if it reflects after image generation because
+# previous generation was failed for rpi
 
 # Class to retry sending of a query command until a given response is received
 class RetryAsyncCommand:
