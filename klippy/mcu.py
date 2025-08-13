@@ -1,3 +1,5 @@
+# 13 August 2025: This is an update
+
 # Interface to Klipper micro-controller code
 #
 # Copyright (C) 2016-2025  Kevin O'Connor <kevin@koconnor.net>
